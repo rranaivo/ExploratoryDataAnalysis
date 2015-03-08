@@ -1,11 +1,13 @@
 Exploratory Data Analysis
 ===========================
 The goal is to write scripts to construct plots based on "Individual household electric power consumption Data Set" for the two dates 20017-02-01 and 2007-02-02:
-1. Plot 1: Construct histogram for Global Active Power
-1. Plot 2: Construct plot for Date and Global active power
-1. Plot 3: Construct plot for Date and the three Energy Sub Meterings
-1. Plot 4: # Construct plot housing 4 graphs for Global Active Power, Voltage, the three Sub Metering and for Global Reactive Power
-1. Reading Data: this script is upload Data from the website and format it to include only data within the date range, and finally save new data into new csv (hpc.csv) with the following variables:
+<ol>
+<li> Plot 1: Construct histogram for Global Active Power </li>
+<li> Plot 2: Construct plot for Date and Global active power </li>
+<li> Plot 3: Construct plot for Date and the three Energy Sub Meterings </li>
+<li> Plot 4: # Construct plot housing 4 graphs for Global Active Power, Voltage, the three Sub Metering and for Global Reactive Power </li>
+<li> Reading Data: this script is upload Data from the website and format it to include only data within the date range, and finally save new data into new csv (hpc.csv) with the following variables: </li>
+</ol>
 * Date_Time: Date and time in XPOSlt format
 * Global_active_power: household global minute-averaged active power (in kilowatt)
 * Global_reactive_power: household global minute-averaged reactive power (in kilowatt)
